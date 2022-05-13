@@ -1131,7 +1131,7 @@ test = ["zope.testing"]
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.9"
-content-hash = "6172b745a385bc70f3292f3af183351252583b139205bcef67d4113346ee65cb"
+content-hash = "63afeaae587ea1f174355297e5e3e79684f739381f66880aff9d119e33672804"
 
 [metadata.files]
 bcrypt = [

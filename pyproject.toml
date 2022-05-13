@@ -26,8 +26,9 @@ classifiers = [
     "Topic :: Security",
     "Topic :: Utilities",
 ]
-Changelog = "https://github.com/someengineering/resoto-plugins/releases"
 
+[tool.poetry.urls]
+Changelog = "https://github.com/someengineering/resoto-plugins/releases"
 
 [tool.poetry.dependencies]
 python = "^3.9"
@@ -49,8 +50,6 @@ resoto-plugin-protector = "2.2.0"
 resoto-plugin-slack = "2.2.0"
 resoto-plugin-tagvalidator = "2.2.0"
 resoto-plugin-vsphere = "2.2.0"
-
-
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
